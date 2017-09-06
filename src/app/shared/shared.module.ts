@@ -37,10 +37,6 @@ import {
     MdDialogModule
   ],
   providers: [
-    // { provide: MD_DIALOG_DATA, useValue: {} },
-    // { provide: MdDialogRef, useValue: {} },
-    // MdDialog
-
   ],
   declarations: []
 })
